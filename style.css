@@ -42,11 +42,10 @@ body {
     }
     
     .container {
-        margin-top: 30px;
         display: flex;
-        flex-direction:row;
-        margin: auto;
-        width: auto;
+        flex-direction: row;
+        justify-content: space-between;
+        top: 100px;
     }
   }
 
